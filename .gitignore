@@ -1,0 +1,14 @@
+data/
+results/
+*.h5
+*.h5ad
+*.loom
+*.rds
+*.fastq
+*.bam
+*.pt
+*.pkl
+*.zip
+*.tar
+*.gz
+*.csv
