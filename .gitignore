@@ -1,5 +1,3 @@
-data/
-results/
 *.h5
 *.h5ad
 *.loom
